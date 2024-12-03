@@ -5,23 +5,32 @@
         <type>Region</type>
     </flexiPageRegions>
     <flexiPageRegions>
-        <componentInstances>
-            <componentName>libsD3</componentName>
-        </componentInstances>
+        <itemInstances>
+            <componentInstance>
+                <componentName>libsD3</componentName>
+                <identifier>libsD3</identifier>
+            </componentInstance>
+        </itemInstances>
         <name>region2</name>
         <type>Region</type>
     </flexiPageRegions>
     <flexiPageRegions>
-        <componentInstances>
-            <componentName>libsChartjs</componentName>
-        </componentInstances>
+        <itemInstances>
+            <componentInstance>
+                <componentName>libsChartjs</componentName>
+                <identifier>libsChartjs</identifier>
+            </componentInstance>
+        </itemInstances>
         <name>region3</name>
         <type>Region</type>
     </flexiPageRegions>
     <flexiPageRegions>
-        <componentInstances>
-            <componentName>libsMomentjs</componentName>
-        </componentInstances>
+        <itemInstances>
+            <componentInstance>
+                <componentName>libsFullCalendar</componentName>
+                <identifier>c_libsFullCalendar1</identifier>
+            </componentInstance>
+        </itemInstances>
         <name>region4</name>
         <type>Region</type>
     </flexiPageRegions>
